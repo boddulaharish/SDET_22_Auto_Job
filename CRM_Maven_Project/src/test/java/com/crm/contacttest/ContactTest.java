@@ -14,4 +14,14 @@ public class ContactTest {
 	public void editContactTest() {
 		System.out.println("execute editcontactTest");
 	}
+	
+	@Test
+	public void editUpdatedContactTest() {
+		System.out.println("execute editcontactTest");
+	}
+	
+	@Test
+	public void editSavedContactTest() {
+		System.out.println("execute editcontactTest");
+	}
 }
